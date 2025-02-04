@@ -3,7 +3,7 @@ import Styles from './section.module.css'
 
 interface MySectionProps{
     href:string,
-    description:String;
+    description:string;
     style?: React.CSSProperties;
 }
 

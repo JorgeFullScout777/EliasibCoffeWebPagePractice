@@ -3,7 +3,7 @@ import Styles from './card.module.css';
 
 interface MySectionProps{
     image:StaticImageData,
-    description:String;
+    description:string;
     style?: React.CSSProperties;
 }
 

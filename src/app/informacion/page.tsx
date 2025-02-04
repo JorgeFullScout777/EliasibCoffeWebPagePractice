@@ -1,5 +1,4 @@
 'use client'
-import Image from "next/image";
 import NavBar from '@/app/components/navbar/navbar'
 import Styles from './informacion.module.css'
 

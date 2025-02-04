@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Styles from './contacto.module.css';
 import NavBar from "../components/navbar/navbar";
 
