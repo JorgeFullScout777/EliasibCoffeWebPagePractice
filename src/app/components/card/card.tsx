@@ -4,10 +4,10 @@ import Styles from './card.module.css';
 interface MySectionProps{
     image:StaticImageData,
     description:string;
-    style?: React.CSSProperties;
+    //style?: React.CSSProperties;
 }
 
-export default function Card({image, description, style}: MySectionProps) {
+export default function Card({image, description/*, style*/}: MySectionProps) {
   return (
       <div className={Styles.card}>
         <Image className={Styles.image} alt="queso" src={image}></Image>

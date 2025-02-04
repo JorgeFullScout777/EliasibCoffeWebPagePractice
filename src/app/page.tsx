@@ -4,7 +4,7 @@ import NavBar from '@/app/components/navbar/navbar'
 import Styles from './home.module.css'
 import coffe_background from '@/app/resources/coffe_background.png'
 import Card from "./components/card/card";
-import Footer from "./contacto/page";
+//import Footer from "./contacto/page";
 
 /* IMAGENES */
 import robusta from "@/app/resources/robusta.jpeg"
