@@ -1,0 +1,25 @@
+.card{
+    height: 45%;
+    width: 45%;
+    border-radius: 15px;
+    background-color: white;
+    border-bottom-color: brown;
+    border-bottom-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    display: flex;
+    overflow: hidden;
+    margin-left: 3%;
+}
+
+.description{
+    margin: 10px;
+    color: black;
+    font-size: 1.8rem;
+}
+
+.image{
+    width: 45%;
+    height: 100%;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}

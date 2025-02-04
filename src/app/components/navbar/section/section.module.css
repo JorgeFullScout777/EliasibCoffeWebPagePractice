@@ -1,0 +1,14 @@
+.section_container{
+    background-color: transparent;
+    width: 150px;
+    height: 80px;
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.section_text{
+    font-size: 1.2rem;
+}

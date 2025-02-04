@@ -1,0 +1,42 @@
+.home_introduction{
+    width: 100%;
+    height: 700px;
+    background-color: gainsboro;
+    position: relative;
+}
+
+.mexico_flag_image{
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    object-fit: cover;
+}
+
+.gradient_intro_background{
+    background: linear-gradient(transparent, black);
+    width: 100%;
+    height: 50%;
+    position: absolute;
+    z-index: 1;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    padding-left: 20px;
+    padding-top: 50px;
+}
+
+.gradient_intro_text{
+    text-align: end;
+    font-size: 2rem;
+    margin-right: 5%;
+}
+
+.cofffes_container{
+    width: 100%;
+    height: 700px;
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 2%;
+}

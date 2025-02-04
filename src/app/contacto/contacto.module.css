@@ -1,0 +1,49 @@
+.body{
+    height: 90%;
+    width: 100%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gainsboro;
+}
+
+.central_container{
+    width: 60%;
+    height: 70%;
+    background-color: white;
+    border-radius: 20px;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contactanos_tittle{
+    font-size: 2rem;
+    color: black;
+    margin-top: 2.5%;
+}
+
+.data_input{
+    border-color: gainsboro;
+    border-width: 2px;
+    border-radius: 5px;
+    width: 80%;
+}
+
+.general_text{
+    color: black;
+    margin-right: 10px;
+}
+
+.data_field{
+    margin-top: 10px;
+}
+
+.textarea_input{
+    border-color: gainsboro;
+    border-width: 2px;
+    border-radius: 5px;
+    width: 100%;
+}
